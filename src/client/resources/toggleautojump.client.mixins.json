@@ -3,7 +3,7 @@
 	"package": "net.kingrocco.toggleautojump.mixin.client",
 	"compatibilityLevel": "JAVA_17",
 	"client": [
-		"ExampleClientMixin"
+		"GameOptionsAccessor"
 	],
 	"injectors": {
 		"defaultRequire": 1

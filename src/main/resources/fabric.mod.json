@@ -8,8 +8,7 @@
 		"KingRocco21"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/KingRocco21/ToggleAutoJump"
 	},
 	"license": "MIT",
 	"icon": "assets/toggleautojump/icon.png",
@@ -33,9 +32,6 @@
 		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.20.4",
 		"java": ">=17",
-		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
+		"fabric-key-binding-api-v1": "*"
 	}
 }
