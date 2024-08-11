@@ -6,11 +6,15 @@ This mod is useful not only for accessibility, but also for running up stairs ve
 
 ## Without Auto Jump Enabled
 
-![gif of Auto Jump disabled](gifs/AutoJumpDisabled.gif)
+![Running up stairs with Auto Jump disabled](gifs/AutoJumpDisabled.gif)
 
 ## With Auto Jump Enabled
 
-![gif of Auto Jump enabled](gifs/AutoJumpDisabled.gif)
+![Running up stairs with Auto Jump enabled](gifs/AutoJumpDisabled.gif)
+
+## Fastest way to climb stairs with Auto Jump
+
+![Running up stairs diagonally with Auto Jump enabled](gifs/ToggleAutoJumpFastest.gif)
 
 ## How to use
 The keybind to toggle auto jump is in the first tab of the controls menu. By default, the key is Left Alt.
