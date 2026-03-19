@@ -1,3 +1,6 @@
+# Archival Notice
+I'm not planning on doing any more modding for Minecraft. If you would like this mod to be updated, feel free to fork or take any code you need!
+
 <img src="src/main/resources/assets/toggleautojump/icon.png" width="128">
 
 # ToggleAutoJump
